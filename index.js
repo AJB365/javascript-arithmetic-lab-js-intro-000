@@ -16,9 +16,3 @@ var inc = function (a, b ){
 var dec = function (a, b){
   return a - 1;
 };
-var makeInt= function (n){
-  return parseInt(n, 10);
-};
-var preserveDecimal= function(n){
-  return n;
-};
