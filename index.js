@@ -1,4 +1,4 @@
 add(1, 2)
-subtract()
+subtract(2, 3)
 multiply()
 divide()
