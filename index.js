@@ -1,1 +1,4 @@
-add (1 + 1)
+add()
+subtract()
+multiply()
+divide()
