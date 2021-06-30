@@ -1,4 +1,3 @@
-add(1, 2)
-subtract(2, 3)
-multiply()
-divide()
+var add = function (a, b){
+  return a + b;
+};
